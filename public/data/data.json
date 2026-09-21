@@ -1,0 +1,223 @@
+{
+  "GHWPLGD": {
+    "label": "Gross Hourly (excluding overtime) and Weekly Pay",
+    "updated": "2025-10-29",
+    "subject": 160,
+    "product": "HEE",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "All": "Number of Jobs (Thousands)",
+          "Median": "Median Wage",
+          "Mean": "Mean Wage"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024",
+          "2025": "2025"
+        }
+      },
+      {
+        "code": "LGD2014",
+        "name": "Local Government District",
+        "values": {
+          "N92000002": "Northern Ireland",
+          "N09000001": "Antrim and Newtownabbey",
+          "N09000002": "Armagh City, Banbridge and Craigavon",
+          "N09000003": "Belfast",
+          "N09000004": "Causeway Coast and Glens",
+          "N09000005": "Derry City and Strabane",
+          "N09000006": "Fermanagh and Omagh",
+          "N09000007": "Lisburn and Castlereagh",
+          "N09000008": "Mid and East Antrim",
+          "N09000009": "Mid Ulster",
+          "N09000010": "Newry, Mourne and Down",
+          "N09000011": "Ards and North Down"
+        }
+      },
+      {
+        "code": "PR",
+        "name": "Pay Rate",
+        "values": {
+          "Heo": "Hourly (excluding overtime)",
+          "Wkly": "Weekly"
+        }
+      },
+      {
+        "code": "WP",
+        "name": "Working Pattern",
+        "values": {
+          "All": "All",
+          "FT": "Full-Time",
+          "PT": "Part-Time"
+        }
+      },
+      {
+        "code": "Sex",
+        "name": "Sex",
+        "values": {
+          "All": "All Persons",
+          "1": "Females",
+          "2": "Males"
+        }
+      }
+    ]
+  },
+  "GAPLGD": {
+    "label": "Gross Annual Pay",
+    "updated": "2025-10-29",
+    "subject": 160,
+    "product": "HEE",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "All": "Number of Jobs (Thousands)",
+          "Median": "Median Wage",
+          "Mean": "Mean Wage"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024",
+          "2025": "2025"
+        }
+      },
+      {
+        "code": "LGD2014",
+        "name": "Local Government District",
+        "values": {
+          "N92000002": "Northern Ireland",
+          "N09000001": "Antrim and Newtownabbey",
+          "N09000002": "Armagh City, Banbridge and Craigavon",
+          "N09000003": "Belfast",
+          "N09000004": "Causeway Coast and Glens",
+          "N09000005": "Derry City and Strabane",
+          "N09000006": "Fermanagh and Omagh",
+          "N09000007": "Lisburn and Castlereagh",
+          "N09000008": "Mid and East Antrim",
+          "N09000009": "Mid Ulster",
+          "N09000010": "Newry, Mourne and Down",
+          "N09000011": "Ards and North Down"
+        }
+      },
+      {
+        "code": "WP",
+        "name": "Working Pattern",
+        "values": {
+          "All": "All",
+          "FT": "Full-Time",
+          "PT": "Part-Time"
+        }
+      },
+      {
+        "code": "Sex",
+        "name": "Sex",
+        "values": {
+          "All": "All Persons",
+          "1": "Females",
+          "2": "Males"
+        }
+      }
+    ]
+  },
+  "TWPHWLGD": {
+    "label": "Total Weekly Paid Hours Worked",
+    "updated": "2025-10-29",
+    "subject": 160,
+    "product": "HEHW",
+    "variables": [
+      {
+        "code": "STATISTIC",
+        "name": "Statistic",
+        "values": {
+          "1": "Number of Jobs (Thousands)",
+          "2": "Median Hours Worked",
+          "3": "Mean Hours Worked"
+        }
+      },
+      {
+        "code": "TLIST(A1)",
+        "name": "Year",
+        "values": {
+          "2014": "2014",
+          "2015": "2015",
+          "2016": "2016",
+          "2017": "2017",
+          "2018": "2018",
+          "2019": "2019",
+          "2020": "2020",
+          "2021": "2021",
+          "2022": "2022",
+          "2023": "2023",
+          "2024": "2024",
+          "2025": "2025"
+        }
+      },
+      {
+        "code": "LGD2014",
+        "name": "Local Government District",
+        "values": {
+          "N09000001": "Antrim and Newtownabbey",
+          "N09000011": "Ards and North Down",
+          "N09000002": "Armagh City, Banbridge and Craigavon",
+          "N09000003": "Belfast",
+          "N09000004": "Causeway Coast and Glens",
+          "N09000005": "Derry City and Strabane",
+          "N09000006": "Fermanagh and Omagh",
+          "N09000007": "Lisburn and Castlereagh",
+          "N09000008": "Mid and East Antrim",
+          "N09000009": "Mid Ulster",
+          "N09000010": "Newry, Mourne and Down",
+          "N92000002": "Northern Ireland"
+        }
+      },
+      {
+        "code": "WP",
+        "name": "Working Pattern",
+        "values": {
+          "All": "All Jobs",
+          "FT": "Full Time",
+          "PT": "Part Time"
+        }
+      },
+      {
+        "code": "Sex",
+        "name": "Sex",
+        "values": {
+          "1": "Female",
+          "2": "Male",
+          "All": "All Persons"
+        }
+      }
+    ]
+  }
+}
